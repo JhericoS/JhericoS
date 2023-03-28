@@ -3,7 +3,7 @@
 </div>
 
 - 👨‍💻 A Software Engineering student from Peru
-- 🔭 I’m currently looking for a job.
+- 🔭 I’m currently work in Monstruo Creativo Agency.
 - 🌱 I’m currently learning Full Stack Web Development.
  ##
 
