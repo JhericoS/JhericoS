@@ -6,11 +6,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Software Engineering student from Peru
+- 🎓 **Bachelor in Software Engineering**
 - 📌 1.5+ years of experience as a Full Stack Developer
-- 🔭 Currently open to work opportunities
-- 🌱 Focused on **Full Stack Web Development** with modern technologies
-- 💡 Enthusiastic about **clean code**, **performance**, and **user experience**
+- 🔭 Currently open to new job opportunities
+- 🌱 Focused on **Full Stack Web Development** using modern technologies
+- 💡 Passionate about **clean code**, **performance optimization**, and **user experience**
 
 ---
 
