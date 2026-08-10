@@ -14,27 +14,33 @@
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Infrastructure, Development & Tools
 
 <div align="center">
-    <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-    <img alt="TypeScript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
-    <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="Next.js" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-    <img alt="Angular" height="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>
-    <img alt="TailwindCSS" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
-    <img alt="Java" height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
-    <img alt="Spring" height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
-    <img alt="C#" height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
-    <img alt="NodeJS" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img alt="MongoDB" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-    <img alt="MySQL" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
-    <img alt="Git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-    <img alt="Cloudflare" height="30" src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg"/>
-    <img alt="DigitalOcean" height="30" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"/>
-    <img alt="Figma" height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+    <img alt="Azure" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+    <img alt="Google Cloud" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+    <img alt="DigitalOcean" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg">
+    <img alt="Cloudflare" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
+    <img alt="Vercel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+    <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img alt="Windows" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
+    <img alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img alt="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+    <img alt="Next.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img alt="Tailwind CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img alt="NestJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+    <img alt="Spring Boot" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img alt="ASP.NET Core" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+    <img alt="SQL Server" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+    <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img alt="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img alt="Postman" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+    <img alt="VS Code" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img alt="Unity" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+    <img alt="Figma" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img alt="Microsoft Office" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg">
 </div>
 
 ---
