@@ -1,15 +1,15 @@
 <div align="center">
     <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>, I'm Jherico</h1>
-    <h3>💻 Full Stack Developer | 🚀 Passionate about building scalable and creative solutions</h3>
+    <h3>💻 Software Developer | 🚀 Passionate about building scalable and creative solutions</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 **Bachelor in Software Engineering**
-- 📌 1.5+ years of experience as a Full Stack Developer
+- 📌 2+ years of experience as a Full Stack Developer
 - 🔭 Currently open to new job opportunities
-- 🌱 Focused on **Full Stack Web Development** using modern technologies
+- 🌱 Focused on **IT Jobs** using modern technologies
 - 💡 Passionate about **clean code**, **performance optimization**, and **user experience**
 
 ---
@@ -51,6 +51,5 @@
 <div align="center">
     <a href="mailto:jhericof.sv.189@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/jherico-solier-vargas-4a26b91a6/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/jsolierv/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://jhericosolier.com/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
