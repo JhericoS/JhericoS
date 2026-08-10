@@ -45,7 +45,6 @@
     <img alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img alt="Unity" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
     <img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img alt="Microsoft Office" height="30" src="https://cdn.simpleicons.org/microsoftoffice/white">
 </div>
 
 ---
